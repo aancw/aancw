@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Jangan Takut Untuk Memulai Belajar Berbicara](https://petruknisme.medium.com/jangan-takut-untuk-memulai-belajar-berbicara-3832826fa9b0?source=rss-c9b9434a3a12------2)
 - [Panduan Install/Upgrade ESXi 7.0U3 untuk Intel NUC](https://petruknisme.medium.com/panduan-install-upgrade-esxi-7-0u3-untuk-intel-nuc-157346820539?source=rss-c9b9434a3a12------2)
 - [NixOS : Instalasi dan Setup Nixpkgs di MacOS](https://petruknisme.medium.com/nixos-instalasi-dan-setup-nixpkgs-di-macos-80bca52629b9?source=rss-c9b9434a3a12------2)
 - [Getting Started with Covenant C2 for Red Teaming](https://petruknisme.medium.com/getting-started-with-covenant-c2-for-red-teaming-8eeb94273b52?source=rss-c9b9434a3a12------2)
-- [Let’s Bypass SSL Pinning By Manual Modification](https://petruknisme.medium.com/lets-bypass-ssl-pinning-by-manual-modification-617afc08a079?source=rss-c9b9434a3a12------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
