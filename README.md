@@ -22,7 +22,7 @@
 ### Pinned Blogs posts
 
 - [Getting Started with Covenant C2 for Red Teaming](https://petruknisme.medium.com/getting-started-with-covenant-c2-for-red-teaming-8eeb94273b52?source=rss-c9b9434a3a12------2)
-- [Let’s Bypass SSL Pinning By Manual Modification] (https://medium.com/@petruknisme/lets-bypass-ssl-pinning-by-manual-modification-617afc08a079?source=user_profile---------4----------------------------)
+- [Let’s Bypass SSL Pinning By Manual Modification](https://medium.com/@petruknisme/lets-bypass-ssl-pinning-by-manual-modification-617afc08a079?source=user_profile---------4----------------------------)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
