@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SmashTheTux — Chapter 0x00 — Basic Buffer Overflow &amp; Ret2libc](https://petruknisme.medium.com/smashthetux-chapter-0x00-basic-buffer-overflow-ret2libc-a748f45961b?source=rss-c9b9434a3a12------2)
 - [Easy Way to Bypass SSL Pinning with Objection &amp; Frida [Beginner Friendly]](https://petruknisme.medium.com/easy-way-to-bypass-ssl-pinning-with-objection-frida-beginner-friendly-58118be4094?source=rss-c9b9434a3a12------2)
 - [Jangan Takut Untuk Memulai Belajar Berbicara](https://petruknisme.medium.com/jangan-takut-untuk-memulai-belajar-berbicara-3832826fa9b0?source=rss-c9b9434a3a12------2)
 - [Panduan Install/Upgrade ESXi 7.0U3 untuk Intel NUC](https://petruknisme.medium.com/panduan-install-upgrade-esxi-7-0u3-untuk-intel-nuc-157346820539?source=rss-c9b9434a3a12------2)
-- [NixOS : Instalasi dan Setup Nixpkgs di MacOS](https://petruknisme.medium.com/nixos-instalasi-dan-setup-nixpkgs-di-macos-80bca52629b9?source=rss-c9b9434a3a12------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
