@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Jangan Takut Untuk Memulai Belajar Berbicara](https://medium.com/semalam-bercerita/jangan-takut-untuk-memulai-belajar-berbicara-d35142927393?source=rss-c9b9434a3a12------2)
+- [Melihat Sisi Lain dari Sesuatu](https://medium.com/semalam-bercerita/melihat-sisi-lain-dari-sesuatu-1f4f357b7625?source=rss-c9b9434a3a12------2)
+- [Ketakutan Hanya Ada Dalam Imajinasi](https://medium.com/semalam-bercerita/ketakutan-hanya-ada-dalam-imajinasi-849c06e8c692?source=rss-c9b9434a3a12------2)
 - [Effectively Obtaining .ipa Files for iOS Pentesting from the App Store](https://petruknisme.medium.com/effectively-obtaining-ipa-files-for-ios-pentesting-from-the-app-store-2c1551b230?source=rss-c9b9434a3a12------2)
-- [SmashTheTux — Chapter 0x00 — Basic Buffer Overflow &amp; Ret2libc](https://petruknisme.medium.com/smashthetux-chapter-0x00-basic-buffer-overflow-ret2libc-a748f45961b?source=rss-c9b9434a3a12------2)
-- [Easy Way to Bypass SSL Pinning with Objection &amp; Frida [Beginner Friendly]](https://petruknisme.medium.com/easy-way-to-bypass-ssl-pinning-with-objection-frida-beginner-friendly-58118be4094?source=rss-c9b9434a3a12------2)
-- [Jangan Takut Untuk Memulai Belajar Berbicara](https://petruknisme.medium.com/jangan-takut-untuk-memulai-belajar-berbicara-3832826fa9b0?source=rss-c9b9434a3a12------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
