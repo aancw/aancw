@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Malware Analysis Lab in ESXi: Isolated Network](https://petruknisme.medium.com/malware-analysis-lab-in-esxi-isolated-network-c19bdbdc21ba?source=rss-c9b9434a3a12------2)
 - [Jangan Takut Untuk Memulai Belajar Berbicara](https://medium.com/semalam-bercerita/jangan-takut-untuk-memulai-belajar-berbicara-d35142927393?source=rss-c9b9434a3a12------2)
 - [Melihat Sisi Lain dari Sesuatu](https://medium.com/semalam-bercerita/melihat-sisi-lain-dari-sesuatu-1f4f357b7625?source=rss-c9b9434a3a12------2)
 - [Ketakutan Hanya Ada Dalam Imajinasi](https://medium.com/semalam-bercerita/ketakutan-hanya-ada-dalam-imajinasi-849c06e8c692?source=rss-c9b9434a3a12------2)
-- [Effectively Obtaining .ipa Files for iOS Pentesting from the App Store](https://petruknisme.medium.com/effectively-obtaining-ipa-files-for-ios-pentesting-from-the-app-store-2c1551b230?source=rss-c9b9434a3a12------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
