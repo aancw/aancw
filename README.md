@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/petruknisme" target="blank"><img src="https://img.shields.io/twitter/follow/petruknisme?logo=twitter&style=for-the-badge" alt="petruknisme" /></a> </p>
 
-- 🔭 I’m currently working on [Spring4Shell-Rust](https://github.com/aancw/Spring4shell-poc-rs)
+- 🔭 I’m currently working on [Feroxbuster](https://github.com/epi052/feroxbuster)
 
 - 🌱 I’m currently learning **Rust, Red Team, Threat Hunting & Intelligence**
 
