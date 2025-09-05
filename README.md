@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aancw&label=Profile%20views&color=0e75b6&style=flat" alt="aancw" /> </p>
 
-<p align="left"> <a href="https://github.com/aancw/"><img src="https://trophygh.kolioaris.xyz/?username=aancw" alt="aancw" /></a> </p>
+<p align="left"> <a href="https://github.com/aancw/"><img src="https://github-profile-trophy.vercel.app/?username=aancw" alt="aancw" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
