@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aancw&label=Profile%20views&color=0e75b6&style=flat" alt="aancw" /> </p>
 
-<p align="left"> <a href="https://github.com/aancw/"><img src="https://github-profile-trophy.vercel.app/?username=aancw" alt="aancw" /></a> </p>
+<p align="left"> <a href="https://github.com/aancw/"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=aancw" alt="aancw" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 <p align="left"> <a href="https://twitter.com/petruknisme" target="blank"><img src="https://img.shields.io/twitter/follow/petruknisme?logo=twitter&style=for-the-badge" alt="petruknisme" /></a> </p>
 
-- 🔭 I’m currently working on [YaraMan](https://github.com/aancw/yaraman)
+- 🔭 I’m currently working on [PentLog](https://github.com/aancw/pentlog)
 
 - 🌱 I’m currently learning **Rust, Red Team, Threat Hunting & Intelligence**
 
@@ -42,18 +42,18 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/aancw/SSLPinDetect" title="SSLPinDetect"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aancw&repo=SSLPinDetect&theme=default"></a>
-  <a align="right" href="https://github.com/aancw/apkpuller" title="APK Puller"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aancw&repo=apkpuller&theme=default"></a>
+  <a align="left" href="https://github.com/aancw/SSLPinDetect" title="SSLPinDetect"><img align="left" height="115" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=aancw&repo=SSLPinDetect&theme=default"></a>
+  <a align="right" href="https://github.com/aancw/apkpuller" title="APK Puller"><img align="right" height="115" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=aancw&repo=apkpuller&theme=default"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/aancw/codeshare-helper" title="codeshare-helper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aancw&repo=codeshare-helper&theme=default"></a>
-  <a align="right" href="https://github.com/aancw/nessus-queue-scan" title="nessus-queue-scan"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aancw&repo=nessus-queue-scan&theme=default"></a>
+  <a align="left" href="https://github.com/aancw/codeshare-helper" title="codeshare-helper"><img align="left" height="115" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=aancw&repo=codeshare-helper&theme=default"></a>
+  <a align="right" href="https://github.com/aancw/nessus-queue-scan" title="nessus-queue-scan"><img align="right" height="115" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=aancw&repo=nessus-queue-scan&theme=default"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/aancw/IDSECCONF2023" title="IDSECCONF2023"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aancw&repo=idsecconf2023&theme=default"></a>
-  <a align="right" href="https://github.com/aancw/APK-FiD" title="APK-FiD"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aancw&repo=APK-FiD&theme=default"></a>
+  <a align="left" href="https://github.com/aancw/IDSECCONF2023" title="IDSECCONF2023"><img align="left" height="115" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=aancw&repo=idsecconf2023&theme=default"></a>
+  <a align="right" href="https://github.com/aancw/APK-FiD" title="APK-FiD"><img align="right" height="115" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=aancw&repo=APK-FiD&theme=default"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
@@ -68,11 +68,11 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=aancw&show_icons=true&theme=default&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/aancw" title="Profile">
+      <img align="left" width=390 src="https://github-readme-stats-eight-theta.vercel.app/api?username=aancw&show_icons=true&theme=default&border_color=61dafb&hide_border=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aancw&theme=default&layout=compact" />
+      <img  align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aancw&theme=default&layout=compact" />
     </a>
   </div>
   <br>
