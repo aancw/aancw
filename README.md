@@ -33,10 +33,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Playing with Browserless: Exploring Web Automation](https://petruknisme.medium.com/playing-with-browserless-exploring-web-automation-af48d57c2c2a?source=rss-c9b9434a3a12------2)
 - [Bypassing PairIP Integrity Checks](https://petruknisme.medium.com/bypassing-pairip-integrity-checks-21d7bdd4a052?source=rss-c9b9434a3a12------2)
 - [Capstone for Malware Analysis: A Beginner’s Guide](https://petruknisme.medium.com/capstone-for-malware-analysis-a-beginners-guide-fe5f01daae6d?source=rss-c9b9434a3a12------2)
 - [Exploring Windows Sandbox for Malware Analysis](https://petruknisme.medium.com/exploring-windows-sandbox-for-malware-analysis-c0f50eb0fa6c?source=rss-c9b9434a3a12------2)
-- [SSLPinDetect: Advanced SSL Pinning Detection for Android Security Analysis](https://petruknisme.medium.com/sslpindetect-advanced-ssl-pinning-detection-for-android-security-analysis-1390e9eca097?source=rss-c9b9434a3a12------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
